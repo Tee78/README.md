@@ -31,3 +31,9 @@ While I offer cleaning services, I’m also learning:
 ---
 
 📩 If you’re looking for clean, easy-to-read data for your business or reports, I’m open to freelance jobs!
+
+
+---
+
+🚀 -- Working on real-life data cleaning projects to grow my portfolio.  
+Follow along — more updates coming soon!
