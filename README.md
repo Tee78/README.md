@@ -21,8 +21,8 @@ This project shows a simple before-and-after view of a messy raw dataset that I 
 
 ---
 
-## 🌱 Still Learning:
-While I offer cleaning services, I’m also learning:
+## 🌱 Tools I'm proficient in:
+
 - Power BI
 - SQL
 - Python
