@@ -46,15 +46,15 @@ _Languages & Tools_
 
 This GitHub contains hands-on analytical projects where I:
 
-Analyse sales performance and revenue trends
+- Analyse sales performance and revenue trends
 
-Build interactive dashboards for business decision-making
+- Build interactive dashboards for business decision-making
 
-Use SQL to extract structured insights from relational databases
+- Use SQL to extract structured insights from relational databases
 
-Apply Python for data manipulation and visualisation
+- Apply Python for data manipulation and visualisation
 
-Create structured reports in Excel
+- Create structured reports in Excel
 
 Each project demonstrates not just technical ability, but structured thinking and business interpretation.
 
